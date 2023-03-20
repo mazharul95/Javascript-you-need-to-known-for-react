@@ -5,7 +5,7 @@ season = 'winter';
 
 //2. Conditional expression
 
-//6 basic condition grater than > ,less than <, ===, !==, <=, >=,
+//6 basic condition grater than: > ,less than: <, ===, !==, <=, >=,
 // multiple conditions: &&,
 
 if(fatherName === 'firoj' || season === 'rainy'){
