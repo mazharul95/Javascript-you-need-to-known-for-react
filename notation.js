@@ -21,3 +21,25 @@ const season = person[25];
 //console.log(season);
 const son = person["son-name"];
 
+//shortcuts
+const x=50;
+const y=100;
+const obj ={
+    x:x,
+    y:y,
+}
+//object declaration shorthand
+const obj1 ={x, y}
+
+const name = 'piyash';
+const area = 'Sylhet';
+
+const engineer = {
+    name: name,
+    area: area,
+}
+
+const engineerSWE ={name, area};
+
+
+
